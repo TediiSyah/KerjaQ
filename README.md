@@ -67,7 +67,8 @@ Salin kode
 
 | Profile Page | Portfolio Page |
 |---------------|----------------|
-| ![Profile](assets/screenshots/profile.png) | ![Portfolio](assets/screenshots/portfolio.png) |
+| ![Profile](<img width="282" height="626" alt="WhatsApp Image 2025-11-13 at 18 46 56_f1ce7e036" src="https://github.com/user-attachments/assets/c648dce1-0bac-487b-a1f0-0f1e507fefe6" />
+) | ![Portfolio](assets/screenshots/portfolio.png) |
 
 > You can capture emulator screenshots and save them in `assets/screenshots/`.
 
@@ -121,3 +122,4 @@ Kamu mau sekalian aku bantu tulis **deskripsi singkat (repository description)**
 Contoh:
 > _“A Flutter-based job seeker app for SMK UKK project — with profile, portfolio, and internship management system.”_  
 Tags: `flutter`, `ukk`, `smk`, `jobseeker`, `portfolio`, `education`
+
